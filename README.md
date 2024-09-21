@@ -1,2 +1,2 @@
-# kieransmanocounty.github.io
-The official Kierans Mano County website.
+# Coming Soon!
+The official Kierans Mano County website. Coding by James.
